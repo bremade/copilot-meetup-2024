@@ -54,6 +54,7 @@ Explain how to run the automated tests for this system.
 ## Authors
 
 - Manuel Bauer
+- Jan Bremauer
 
 ## License
 
