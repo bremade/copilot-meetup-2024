@@ -11,10 +11,11 @@ import java.util.List;
 
 @Service
 public class UserService {
+    private final UserRepository userRepository;
 
-    // TODO fix field injection
-    @Autowired
-    private UserRepository userRepository;
+    public UserService(UserRepository userRepository) {
+        this.userRepository = userRepository;
+    }
 
     public List<UserEntity> findByLastName(String lastName) {
         return userRepository.findByLastName(lastName);
