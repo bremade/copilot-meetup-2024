@@ -1,0 +1,10 @@
+com/doubleslash/showcase/controller/advice/Violation.class
+com/doubleslash/showcase/validator/EmailValidator.class
+com/doubleslash/showcase/entity/UserEntity.class
+com/doubleslash/showcase/controller/advice/ErrorHandlingControllerAdvice.class
+com/doubleslash/showcase/ShowcaseApplication.class
+com/doubleslash/showcase/service/UserService.class
+com/doubleslash/showcase/validator/CustomEmail.class
+com/doubleslash/showcase/repository/UserRepository.class
+com/doubleslash/showcase/controller/RegistrationController.class
+com/doubleslash/showcase/controller/advice/ValidationErrorResponse.class

@@ -1,0 +1,10 @@
+/Users/bremauer/Documents/projects/copilot-meetup-2024/src/main/java/com/doubleslash/showcase/ShowcaseApplication.java
+/Users/bremauer/Documents/projects/copilot-meetup-2024/src/main/java/com/doubleslash/showcase/controller/RegistrationController.java
+/Users/bremauer/Documents/projects/copilot-meetup-2024/src/main/java/com/doubleslash/showcase/controller/advice/ErrorHandlingControllerAdvice.java
+/Users/bremauer/Documents/projects/copilot-meetup-2024/src/main/java/com/doubleslash/showcase/controller/advice/ValidationErrorResponse.java
+/Users/bremauer/Documents/projects/copilot-meetup-2024/src/main/java/com/doubleslash/showcase/controller/advice/Violation.java
+/Users/bremauer/Documents/projects/copilot-meetup-2024/src/main/java/com/doubleslash/showcase/entity/UserEntity.java
+/Users/bremauer/Documents/projects/copilot-meetup-2024/src/main/java/com/doubleslash/showcase/repository/UserRepository.java
+/Users/bremauer/Documents/projects/copilot-meetup-2024/src/main/java/com/doubleslash/showcase/service/UserService.java
+/Users/bremauer/Documents/projects/copilot-meetup-2024/src/main/java/com/doubleslash/showcase/validator/CustomEmail.java
+/Users/bremauer/Documents/projects/copilot-meetup-2024/src/main/java/com/doubleslash/showcase/validator/EmailValidator.java
