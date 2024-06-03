@@ -23,7 +23,7 @@ public class RegistrationController {
         return "Hello, World!";
     }
 
-    @GetMapping()
+    @GetMapping
     public List<UserEntity> getAllUsers() {
         // use the user service to get all users
         return userService.findAll();
@@ -36,7 +36,7 @@ public class RegistrationController {
         return userService.findByLastName(lastName);
     }
 
-    @PostMapping()
+    @PostMapping
     public UserEntity addUser(@Valid @RequestBody UserEntity user) {
         // use the user service to add a user
         return userService.addUser(user);
