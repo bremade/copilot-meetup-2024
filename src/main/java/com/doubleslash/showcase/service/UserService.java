@@ -12,7 +12,6 @@ import java.util.List;
 @Service
 public class UserService {
 
-    // TODO fix field injection
     @Autowired
     private UserRepository userRepository;
 

@@ -42,7 +42,6 @@ A step by step series of examples that tell you how to get a development environ
 5. Run `mvn spring-boot:run` to start the application
 
 ## Running the tests
-
 Explain how to run the automated tests for this system.
 
 ## Built With
