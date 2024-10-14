@@ -23,22 +23,9 @@ public class RegistrationController {
         return "Hello, World!";
     }
 
-    @GetMapping
-    public List<UserEntity> getAllUsers() {
-        // use the user service to get all users
-        return userService.findAll();
-    }
+    // TODO generate getAll endpoint
 
-    @GetMapping("/{lastName}")
-    public List<UserEntity> getUserByLastName(
-            @PathParam(value = "lastName") String lastName) {
-        // use the user service to get all users by last name
-        return userService.findByLastName(lastName);
-    }
+    // TODO generate getByLAstname endpoint
 
-    @PostMapping
-    public UserEntity addUser(@Valid @RequestBody UserEntity user) {
-        // use the user service to add a user
-        return userService.addUser(user);
-    }
+    // TODO generate addUser endpoint
 }
